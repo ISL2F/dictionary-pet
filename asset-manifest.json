@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dictionary-pet/static/css/main.1bc48787.css",
+    "main.js": "/dictionary-pet/static/js/main.da4f4513.js",
+    "index.html": "/dictionary-pet/index.html",
+    "main.1bc48787.css.map": "/dictionary-pet/static/css/main.1bc48787.css.map",
+    "main.da4f4513.js.map": "/dictionary-pet/static/js/main.da4f4513.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bc48787.css",
+    "static/js/main.da4f4513.js"
+  ]
+}
